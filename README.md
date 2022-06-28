@@ -1,0 +1,1 @@
+Alèx is a Discord bot that implements [Minecraft-like commands](https://minecraft.fandom.com/wiki/Commands#List_and_summary_of_commands). Feel free to [invite](https://discord.com/api/oauth2/authorize?client_id=980269485569241158&permissions=8&scope=bot%20applications.commands) her to your server.
